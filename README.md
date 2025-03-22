@@ -4,7 +4,7 @@
 <p>I’m a passionate developer currently diving into exciting projects and expanding my skills.</p>
 
 <ul>
-  <li><b>💡 Current Project:</b> Working on a <b>Women Screaming Detector</b> 🆘 – making technology work for safety!</li>
+  <li><b>💡 Current Project:</b> Working on a <b>Suraksha-The Safety Guardian</b> 🆘 – making technology work for safety!</li>
   <li><b>🌱 Currently Learning:</b> Exploring the realms of <b>Web Development</b> 🌐 and <b>React.js</b> ⚛️.</li>
 </ul>
 
