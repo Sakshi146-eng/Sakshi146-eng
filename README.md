@@ -4,7 +4,7 @@
 <p>I’m a passionate developer currently diving into exciting projects and expanding my skills.</p>
 
 <ul>
-  <li><b>🌱 Currently Learning:</b> Exploring the realms of <b>Web Development</b> 🌐 and <b>React.js</b> ⚛️.</li>
+  <li><b>🌱 Currently Learning:</b> Exploring the realms of <b>Web Development</b> and <b>Android App Development</b> .</li>
 </ul>
 
 <hr>
