@@ -20,6 +20,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40">
   <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" title="GitHub" width="40" height="40">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman API Fundamentals Student Expert" width="40" height="40">
+  <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React" title="React.js" width="40" height="40">
 </div>
 
 <hr>
@@ -31,5 +32,3 @@
 </a>
 
 <hr>
-
-
