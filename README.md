@@ -49,7 +49,6 @@
 ### 🎯 Current Goals
 
 - 🌱 Start learning and building projects with the MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- 🔐 Enhance skills in Frontend
 - 🧩 Contribute to impactful open-source projects
 
 ---
