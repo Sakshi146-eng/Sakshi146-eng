@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m exploring the realms of Web Development  
-- ⚡ Fun fact: I love combining tech with social impact & innovation
+- ⚡ I love combining tech with social impact & innovation
 
 ---
 
