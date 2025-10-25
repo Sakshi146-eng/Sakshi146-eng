@@ -18,7 +18,7 @@
 ### 🔧 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,python,java,c,cpp,html,css,js,tailwind,postman,firebase,github,mysql,linux,nodejs,figma,mongodb,express" />
+  <img src="https://skillicons.dev/icons?i=react,python,java,c,cpp,html,css,js,tailwind,postman,firebase,github,mysql,linux,nodejs,figma,mongodb,express,fastapi" />
 </p>
 
 ---
