@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m exploring the realms of Web Development  
+- 🌱 I’m exploring the realms of Web Development and Machine Learning
 - ⚡ I love combining tech with social impact & innovation
 
 ---
