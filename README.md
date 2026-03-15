@@ -89,7 +89,7 @@ Feel free to reach out through any of the platforms below:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=header&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
 
 <br/>
 
