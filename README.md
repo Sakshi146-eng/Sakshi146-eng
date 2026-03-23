@@ -93,7 +93,7 @@ Feel free to reach out through any of the platforms below:
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&duration=2500&pause=800&color=F754EB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sakshi+Shetty+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Enthusiast;Building+Smart+%26+Impactful+Technology;Let's+Collaborate+and+Create!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&duration=2500&pause=800&color=F754EB&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sakshi+Shetty+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Smart+%26+Impactful+Technology;Let's+Collaborate+and+Create!+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
