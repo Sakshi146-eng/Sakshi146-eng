@@ -144,7 +144,7 @@ I'm a passionate developer who loves **building smart and useful technology** th
 
 ### ⚙️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,postman,github,linux,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=docker,postman,github,figma&theme=dark" alt="Tools" />
 
 <br/>
 
