@@ -99,7 +99,15 @@ Feel free to reach out through any of the platforms below:
 
 <!-- <img src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="480" alt="Coding GIF" style="border-radius: 12px;" /> -->
 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-shetty-1597ba298)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshishetty146@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://sakshi-shetty.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sakshi146-eng&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/Sakshi146-eng)
+ 
 </div>
+<br/>
 
 <!-- <br/>
 
@@ -217,11 +225,11 @@ I'm a passionate developer who loves **building smart and useful technology** th
 
 </div>
 
----
 
-## 🤝 Let's Connect
 
-<div align="center">
+
+
+<!-- <div align="center">
 
 I'm always excited to collaborate on interesting projects or discuss new ideas in tech!  
 Feel free to reach out through any of the platforms below:
@@ -236,7 +244,7 @@ Feel free to reach out through any of the platforms below:
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sakshi146-eng&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/Sakshi146-eng)
 
-<br/>
+<br/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&animation=twinkling" width="100%" />
 
