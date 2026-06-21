@@ -134,11 +134,11 @@ I'm a passionate developer who loves **building smart and useful technology** th
 
 ### About Me
  
-I'm a passionate developer who loves **building smart and useful technology** that makes a real difference. My work bridges creative web engineering with applied machine learning — always with social impact at the core.
+I'm a developer who enjoys building solutions that are practical, reliable, and built to last. I care deeply about clean architecture and solutions that are genuinely optimised for the problem at hand.
  
-- Currently deepening expertise in **Web Development** and **Machine Learning**
-- Passionate about combining **technology with social impact**
-- Focused on building solutions that are both elegant and meaningful
+- Currently focused on **Backend Engineering** and **Artificial Intelligence**
+- Experienced in making design decisions that prioritise scalability and maintainability
+- Passionate about **end-to-end development** from problem framing to production-ready pipelines
 - Always learning, always building  
 <br/><br/><br/>
  
@@ -188,13 +188,16 @@ I'm a passionate developer who loves **building smart and useful technology** th
 
 <br/>
 
-###  ML / Data Science
+###  AI / ML
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
