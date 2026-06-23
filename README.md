@@ -204,13 +204,13 @@ I'm a developer who enjoys building solutions that are practical, reliable, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi146-eng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F754EB&icon_color=F754EB&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi146-eng&theme=radical&hide_border=true&background=0D1117&stroke=F754EB&ring=F754EB&fire=F754EB&currStreakLabel=F754EB" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi146-eng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FB7185&icon_color=FB7185&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi146-eng&theme=radical&hide_border=true&background=0D1117&stroke=FB7185&ring=FB7185&fire=FB7185&currStreakLabel=FB7185" alt="GitHub Streak" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi146-eng&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F754EB&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi146-eng&bg_color=0D1117&color=F754EB&line=F754EB&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi146-eng&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FB7185&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi146-eng&bg_color=0D1117&color=FB7185&line=FB7185&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="49%" />
 
 </div>
 
