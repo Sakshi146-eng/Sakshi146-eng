@@ -103,7 +103,6 @@ Feel free to reach out through any of the platforms below:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-shetty-1597ba298)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshishetty146@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://sakshi-shetty.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sakshi146-eng&label=Profile+Views&color=FB7185&style=for-the-badge)](https://github.com/Sakshi146-eng)
  
 </div>
